@@ -1,0 +1,5 @@
+#Mac folder files
+.DS_Store
+
+#Webstorm folder
+.idea

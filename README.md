@@ -1,4 +1,7 @@
-# LSU DMAE Website
+# LSU XR Studio Website
+
+### GitHub Link
+* [README.md on GitHub](https://github.com/maubanel/lsu-xr-studio/blob/main/README.md)
 
 ### Software Used
 * Node
@@ -9,7 +12,7 @@
 * react-share
 * react-icons
 * embla-carousel-react
-* sharp (next js image doesn't style images statically)
+* sharp (Next.js image doesn't style images statically)
 * next mdx (and related plugins)
 * gray-matter (to parse frontmatter from mdx and md posts)
 * react-player (videos)
@@ -20,7 +23,7 @@
 
 ### Launch
 * Develop on react server using `npm run dev`
-* Render static site using `npm run build` and build to `out` folder  
+* Render static site using `npm run build` and build to `out` folder
 * Run server to test site using`npm run start`.
 * If images are added, removed or changed run `npm run build-images` before running build
 
@@ -34,7 +37,7 @@
 * Do we want a shared LinkedIn | Facebook | Instagram account | X Account for the three groups?
 * Do we want a landing page that directs to all three pages?
 * Do we want to make a logo for all three?
-* Do we want a tik tok site mirroring the youtube?
+* Do we want a TikTok site mirroring the YouTube?
 * Google YouTube at  @ dmaelsu@gmail.com pass: `lsu55555`
 * Google Name: LSU DMAE - XR - Digital Twins
 
@@ -108,3 +111,8 @@ Use \<figure\> when:
 * Callout boxes, tips, or related resources
 * Pull quotes or highlighted info
 * Contextual ads or promotional content
+* Footnotes or additional commentary
+
+#### Date and time
+* use semantic markup for dates and times especially for events
+
